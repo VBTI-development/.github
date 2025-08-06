@@ -11,7 +11,9 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/vbti-development)
 
-VBTI is ...
+VBTI is an AI engineering company that develops Deep Learning solutions for companies in areas such as agriculture and manufacturing. 
+Our team consists of highly motivated, skilled and educated professionals who are enthusiastic about the field of AI and its application in the real world. 
+We believe in a mix of young and old talent, both fresh and experienced minds that are needed to push AI into its next phase of development and concretely help companies perform better.
 
 ## OneDL MMlabs
 
@@ -46,3 +48,4 @@ And their dependencies:
 - [MMCV](https://github.com/vbti-development/onedl-mmcv): OpenMMLab foundational library for computer vision.
 
 We are only a small team, so any help will be appreciated.
+
