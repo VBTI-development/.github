@@ -11,3 +11,25 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/vbti-development)
 
+VBTI is ...
+
+## OneDL MMlabs
+
+Here at VBTI we are developing OneDL.
+
+  <div align="center">
+    <b>
+<a href="http://onedl.ai/" rel="some text">
+<img width="200" height="200" alt="onedl_logo_light_200px" src="https://github.com/user-attachments/assets/d670d08b-4cd0-4eba-8e63-a5bdabeb96ae" />
+</a>
+    </b>
+  </div>
+
+OneDL is an industry focused AI platform designed to support the entire lifecycle of your AI applications. 
+Your team can directly focus on application development while saving time on developing IT tools for data management, data format conversions and stitching together open-source tools.
+The OpenMMLabs vision and deep learning libraries are part of that.
+
+By taking over maintainance of these libraries, we want to give back to the open source community what we gained as well.
+Access to a great deep learning training tool with the latest models from academia.
+
+We are only a small team, so any help will be appreciated.
