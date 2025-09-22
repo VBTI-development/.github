@@ -15,7 +15,7 @@ VBTI is an AI engineering company that develops Deep Learning solutions for comp
 Our team consists of highly motivated, skilled and educated professionals who are enthusiastic about the field of AI and its application in the real world. 
 We believe in a mix of young and old talent, both fresh and experienced minds that are needed to push AI into its next phase of development and concretely help companies perform better.
 
-## OneDL MMlabs
+## OneDL
 
 Here at VBTI we are developing OneDL.
 
@@ -48,3 +48,4 @@ And their dependencies:
 - [OneDL-CV](https://github.com/vbti-development/onedl-mmcv): Foundational library for computer vision.
 
 We are only a small team, so any help will be appreciated.
+
