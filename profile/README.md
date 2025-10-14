@@ -1,15 +1,17 @@
 
+![GitHub Org's stars](https://img.shields.io/github/stars/vbti-development)
+
 <div align="center">
   <img src="https://www.vbti.nl/wp-content/uploads/2022/03/vbti-logo-retina.png" height="100"/>
   <div>&nbsp;</div>
   <div align="center">
     <b>
       <a href="https://vbti.nl"><font size="5">VBTI website</font></a></b>
-</div>
+  </div>
+<div>&nbsp;</div>
+  <a href="https://discord.gg/8DvcVRs5Pm"><img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg"/></a>
 <div>&nbsp;</div>
 </div>
-
-![GitHub Org's stars](https://img.shields.io/github/stars/vbti-development)
 
 VBTI is an AI engineering company that develops Deep Learning solutions for companies in areas such as agriculture and manufacturing. 
 Our team consists of highly motivated, skilled and educated professionals who are enthusiastic about the field of AI and its application in the real world. 
@@ -48,4 +50,3 @@ And their dependencies:
 - [OneDL-CV](https://github.com/vbti-development/onedl-mmcv): Foundational library for computer vision.
 
 We are only a small team, so any help will be appreciated.
-
