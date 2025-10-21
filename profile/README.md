@@ -50,3 +50,7 @@ And their dependencies:
 - [OneDL-CV](https://github.com/vbti-development/onedl-mmcv): Foundational library for computer vision.
 
 We are only a small team, so any help will be appreciated.
+
+## Migration guide
+Using onedl-mmxxx should be directly interchangeable with mmxxx. Simply `pip install onedl-mim` instead of `openmim` and `mim install onedl-mmxxx` instead of `mim install mmxxx`. 
+Most imports and functionality should have been maintained, except for some known issues. Look in repository specific installation instructions for more details.
