@@ -56,9 +56,10 @@ Using onedl-mmxxx should be directly interchangeable with mmxxx. Simply `pip ins
 Most imports and functionality should have been maintained, except for some known issues. Look in repository specific installation instructions for more details.
 
 ## Roadmap
-For the forseeable future we will: 
+For the foreseeable future we will: 
 - review and merge all pull requests submitted to all of the repositories in our organization
 - make sure the CI pipelines will be kept up to date
 - answer as much of the discussions and issues raised in the repositories within our allotted time.
 
 We are also working setting up a sponsorship program to ensure we also have the resources in the future to maintain these packages and maybe even develop new features. Stay tuned!
+
