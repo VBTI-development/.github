@@ -61,5 +61,4 @@ For the foreseeable future we will:
 - make sure the CI pipelines will be kept up to date
 - answer as much of the discussions and issues raised in the repositories within our allotted time.
 
-We are also working setting up a sponsorship program to ensure we also have the resources in the future to maintain these packages and maybe even develop new features. Stay tuned!
-
+We have set up a sponsorship program to ensure we also have the resources in the future to maintain these packages and maybe even develop new features.
