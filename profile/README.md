@@ -3,7 +3,7 @@
 
 <div align="center">
       <a href="https://vbti.nl">
-  <img src="https://avatars.githubusercontent.com/u/163300684?s=400&u=066fbfb1dd0d7771841cc5c74932d3085c513830&v=4" height="100"/>
+  <img src="../assets/vbti_banner.png"/>
       </a>
   <div>&nbsp;</div>
   <div align="center">
@@ -69,4 +69,5 @@ For the foreseeable future we will:
 - answer as much of the discussions and issues raised in the repositories within our allotted time.
 
 We have set up a sponsorship program to ensure we also have the resources in the future to maintain these packages and maybe even develop new features.
+
 
