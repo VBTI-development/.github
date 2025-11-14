@@ -2,14 +2,16 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/vbti-development)
 
 <div align="center">
-  <img src="https://www.vbti.nl/wp-content/uploads/2022/03/vbti-logo-retina.png" height="100"/>
+      <a href="https://vbti.nl">
+  <img src="https://avatars.githubusercontent.com/u/163300684?s=400&u=066fbfb1dd0d7771841cc5c74932d3085c513830&v=4" height="100"/>
+      </a>
   <div>&nbsp;</div>
   <div align="center">
-    <b>
-      <a href="https://vbti.nl"><font size="5">VBTI website</font></a></b>
   </div>
 <div>&nbsp;</div>
-  <a href="https://discord.gg/8DvcVRs5Pm"><img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg"/></a>
+  <a href="https://www.linkedin.com/company/vbti"><img height="30" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-download-fg-dsk-v01.png/jcr:content/renditions/brand-inlogo-download-fg-dsk-v01-2x.png"></a>
+  &nbsp;
+  <a href="https://discord.gg/8DvcVRs5Pm"><img height="30" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg"/></a>
 <div>&nbsp;</div>
 </div>
 
@@ -23,8 +25,13 @@ Here at VBTI we are developing OneDL.
 
   <div align="center">
     <b>
+      
 <a href="http://onedl.ai/" rel="some text">
-<img width="200" height="200" alt="onedl_logo_light_200px" src="https://github.com/user-attachments/assets/d670d08b-4cd0-4eba-8e63-a5bdabeb96ae" />
+  <picture>
+    <!-- User prefers dark mode: -->
+  <source srcset="../assets/onedl_logo_dark_trimmed.png"  media="(prefers-color-scheme: dark)"/>
+<img width="200" alt="onedl_logo_light_200px" src="../assets/onedl_logo_light_trimmed.png" />
+  </picture>
 </a>
     </b>
   </div>
@@ -62,3 +69,4 @@ For the foreseeable future we will:
 - answer as much of the discussions and issues raised in the repositories within our allotted time.
 
 We have set up a sponsorship program to ensure we also have the resources in the future to maintain these packages and maybe even develop new features.
+
