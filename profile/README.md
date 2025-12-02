@@ -69,7 +69,7 @@ For the foreseeable future we will:
 - answer as much of the discussions and issues raised in the repositories within our allotted time.
 
 We have set up a sponsorship program to ensure we also have the resources in the future to maintain these packages and maybe even develop new features.
-We will add more repo's in the future, however timelines are uncertain and the order can change on popular demand/sponsorships:
-- mmtracking
-- mmagic
-- mmyolo
+We will add more repo's in the future, however timelines are uncertain and the order can change on popular demand/sponsorships.
+
+See our [Roadmap](https://github.com/orgs/VBTI-development/projects/2) for an up to date planning.
+
