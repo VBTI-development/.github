@@ -45,16 +45,16 @@ Access to a great deep learning training tool with the latest models from academ
 
 For now we focus ourselves on the most used repositories:
 
-- [OneDL-PreTrain](https://github.com/vbti-development/onedl-mmpretrain): Pre-training and classificationtoolbox and benchmark.
-- [OneDL-Detection](https://github.com/vbti-development/onedl-mmdetection): Object detection and instance segmentation toolbox and benchmark.
-- [OneDL-Segmentation](https://github.com/vbti-development/onedl-mmsegmentation): Semantic segmentation toolbox and benchmark.
-- [OneDL-Deploy](https://github.com/vbti-development/onedl-mmdeploy): Model deployment framework.
-- [OneDL-Rotate](https://github.com/vbti-development/onedl-mmrotate): Rotated object detection toolbox and benchmark.
+- [OneDL-MMPreTrain](https://github.com/vbti-development/onedl-mmpretrain): Pre-training and classificationtoolbox and benchmark.
+- [OneDL-MMDetection](https://github.com/vbti-development/onedl-mmdetection): Object detection and instance segmentation toolbox and benchmark.
+- [OneDL-MMSegmentation](https://github.com/vbti-development/onedl-mmsegmentation): Semantic segmentation toolbox and benchmark.
+- [OneDL-MMDeploy](https://github.com/vbti-development/onedl-mmdeploy): Model deployment framework.
+- [OneDL-MMRotate](https://github.com/vbti-development/onedl-mmrotate): Rotated object detection toolbox and benchmark.
 
 And their dependencies:
 - [OneDL-MIM](https://github.com/vbti-development/onedl-mim): MIM installs VBTI  packages.
-- [OneDL-Engine](https://github.com/vbti-development/onedl-mmengine): Foundational library for training deep learning models.
-- [OneDL-CV](https://github.com/vbti-development/onedl-mmcv): Foundational library for computer vision.
+- [OneDL-MMEngine](https://github.com/vbti-development/onedl-mmengine): Foundational library for training deep learning models.
+- [OneDL-MMCV](https://github.com/vbti-development/onedl-mmcv): Foundational library for computer vision.
 
 We are only a small team, so any help will be appreciated.
 
@@ -69,5 +69,7 @@ For the foreseeable future we will:
 - answer as much of the discussions and issues raised in the repositories within our allotted time.
 
 We have set up a sponsorship program to ensure we also have the resources in the future to maintain these packages and maybe even develop new features.
-
-
+We will add more repo's in the future, however timelines are uncertain and the order can change on popular demand/sponsorships:
+- mmtracking
+- mmagic
+- mmyolo
