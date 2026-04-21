@@ -56,6 +56,9 @@ And their dependencies:
 - [OneDL-MMEngine](https://github.com/vbti-development/onedl-mmengine): Foundational library for training deep learning models.
 - [OneDL-MMCV](https://github.com/vbti-development/onedl-mmcv): Foundational library for computer vision.
 
+We have also added [OneDL-MMDetection3D](https://github.com/vbti-development/onedl-mmdetection3d) to our organization.
+Due to our limited bandwidth support for this libary will be limited.
+
 We are only a small team, so any help will be appreciated.
 
 ## Migration guide
