@@ -9,7 +9,7 @@
   <div align="center">
   </div>
 <div>&nbsp;</div>
-  <a href="https://www.linkedin.com/company/vbti"><img height="30" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-download-fg-dsk-v01.png/jcr:content/renditions/brand-inlogo-download-fg-dsk-v01-2x.png"></a>
+  <a href="https://www.linkedin.com/company/vbti"><img alt="LI-In-Bug" height="30" src="https://github.com/user-attachments/assets/17f4a756-aeaa-41ba-92c1-ef2dacf05fc8"></a>
   &nbsp;
   <a href="https://discord.gg/8DvcVRs5Pm"><img height="30" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg"/></a>
 <div>&nbsp;</div>
